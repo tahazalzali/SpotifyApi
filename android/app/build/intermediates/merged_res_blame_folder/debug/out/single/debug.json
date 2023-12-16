@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "com.beirut.app-merged_res-35:/mipmap-hdpi_ic_launcher_round.jpg.flat",
+        "source": "com.beirut.app-main-37:/mipmap-hdpi/ic_launcher_round.jpg"
+    },
+    {
+        "merged": "com.beirut.app-merged_res-35:/mipmap-hdpi_ic_launcher.jpg.flat",
+        "source": "com.beirut.app-main-37:/mipmap-hdpi/ic_launcher.jpg"
+    },
+    {
+        "merged": "com.beirut.app-merged_res-35:/mipmap-xxhdpi_ic_launcher_foreground.jpg.flat",
+        "source": "com.beirut.app-main-37:/mipmap-xxhdpi/ic_launcher_foreground.jpg"
+    },
+    {
+        "merged": "com.beirut.app-merged_res-35:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.beirut.app-main-37:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.beirut.app-merged_res-35:/mipmap-mdpi_bootsplash_logo.jpg.flat",
+        "source": "com.beirut.app-main-37:/mipmap-mdpi/bootsplash_logo.jpg"
+    },
+    {
+        "merged": "com.beirut.app-merged_res-35:/mipmap-xxhdpi_ic_launcher_background.jpg.flat",
+        "source": "com.beirut.app-main-37:/mipmap-xxhdpi/ic_launcher_background.jpg"
+    },
+    {
+        "merged": "com.beirut.app-merged_res-35:/mipmap-xxhdpi_bootsplash_logo.jpg.flat",
+        "source": "com.beirut.app-main-37:/mipmap-xxhdpi/bootsplash_logo.jpg"
+    },
+    {
+        "merged": "com.beirut.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher_foreground.jpg.flat",
+        "source": "com.beirut.app-main-37:/mipmap-xxxhdpi/ic_launcher_foreground.jpg"
+    },
+    {
+        "merged": "com.beirut.app-merged_res-35:/mipmap-hdpi_ic_launcher_background.jpg.flat",
+        "source": "com.beirut.app-main-37:/mipmap-hdpi/ic_launcher_background.jpg"
+    },
+    {
+        "merged": "com.beirut.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher.jpg.flat",
+        "source": "com.beirut.app-main-37:/mipmap-xxxhdpi/ic_launcher.jpg"
+    },
+    {
+        "merged": "com.beirut.app-merged_res-35:/mipmap-xhdpi_ic_launcher_background.jpg.flat",
+        "source": "com.beirut.app-main-37:/mipmap-xhdpi/ic_launcher_background.jpg"
+    },
+    {
+        "merged": "com.beirut.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher_background.jpg.flat",
+        "source": "com.beirut.app-main-37:/mipmap-xxxhdpi/ic_launcher_background.jpg"
+    },
+    {
+        "merged": "com.beirut.app-merged_res-35:/mipmap-xhdpi_ic_launcher_foreground.jpg.flat",
+        "source": "com.beirut.app-main-37:/mipmap-xhdpi/ic_launcher_foreground.jpg"
+    },
+    {
+        "merged": "com.beirut.app-merged_res-35:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.beirut.app-main-37:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.beirut.app-merged_res-35:/mipmap-hdpi_ic_launcher_foreground.jpg.flat",
+        "source": "com.beirut.app-main-37:/mipmap-hdpi/ic_launcher_foreground.jpg"
+    },
+    {
+        "merged": "com.beirut.app-merged_res-35:/mipmap-mdpi_ic_launcher_round.jpg.flat",
+        "source": "com.beirut.app-main-37:/mipmap-mdpi/ic_launcher_round.jpg"
+    },
+    {
+        "merged": "com.beirut.app-merged_res-35:/mipmap-mdpi_ic_launcher_foreground.jpg.flat",
+        "source": "com.beirut.app-main-37:/mipmap-mdpi/ic_launcher_foreground.jpg"
+    },
+    {
+        "merged": "com.beirut.app-merged_res-35:/mipmap-xxxhdpi_bootsplash_logo.jpg.flat",
+        "source": "com.beirut.app-main-37:/mipmap-xxxhdpi/bootsplash_logo.jpg"
+    },
+    {
+        "merged": "com.beirut.app-merged_res-35:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.beirut.app-main-37:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.beirut.app-merged_res-35:/mipmap-xxhdpi_ic_launcher_round.jpg.flat",
+        "source": "com.beirut.app-main-37:/mipmap-xxhdpi/ic_launcher_round.jpg"
+    },
+    {
+        "merged": "com.beirut.app-merged_res-35:/mipmap-mdpi_ic_launcher.jpg.flat",
+        "source": "com.beirut.app-main-37:/mipmap-mdpi/ic_launcher.jpg"
+    },
+    {
+        "merged": "com.beirut.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher_round.jpg.flat",
+        "source": "com.beirut.app-main-37:/mipmap-xxxhdpi/ic_launcher_round.jpg"
+    },
+    {
+        "merged": "com.beirut.app-merged_res-35:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.beirut.app-main-37:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.beirut.app-merged_res-35:/mipmap-xhdpi_ic_launcher_round.jpg.flat",
+        "source": "com.beirut.app-main-37:/mipmap-xhdpi/ic_launcher_round.jpg"
+    },
+    {
+        "merged": "com.beirut.app-merged_res-35:/mipmap-xhdpi_ic_launcher.jpg.flat",
+        "source": "com.beirut.app-main-37:/mipmap-xhdpi/ic_launcher.jpg"
+    },
+    {
+        "merged": "com.beirut.app-merged_res-35:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.beirut.app-main-37:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.beirut.app-merged_res-35:/mipmap-xhdpi_bootsplash_logo.jpg.flat",
+        "source": "com.beirut.app-main-37:/mipmap-xhdpi/bootsplash_logo.jpg"
+    },
+    {
+        "merged": "com.beirut.app-merged_res-35:/mipmap-xxhdpi_ic_launcher.jpg.flat",
+        "source": "com.beirut.app-main-37:/mipmap-xxhdpi/ic_launcher.jpg"
+    },
+    {
+        "merged": "com.beirut.app-merged_res-35:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.beirut.app-main-37:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.beirut.app-merged_res-35:/mipmap-mdpi_ic_launcher_background.jpg.flat",
+        "source": "com.beirut.app-main-37:/mipmap-mdpi/ic_launcher_background.jpg"
+    },
+    {
+        "merged": "com.beirut.app-merged_res-35:/drawable-mdpi_src_assets_images_spotifyicon.png.flat",
+        "source": "com.beirut.app-main-37:/drawable-mdpi/src_assets_images_spotifyicon.png"
+    },
+    {
+        "merged": "com.beirut.app-merged_res-35:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.beirut.app-main-37:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.beirut.app-merged_res-35:/mipmap-hdpi_bootsplash_logo.jpg.flat",
+        "source": "com.beirut.app-main-37:/mipmap-hdpi/bootsplash_logo.jpg"
+    },
+    {
+        "merged": "com.beirut.app-merged_res-35:/drawable-mdpi_src_assets_images_searchicon.png.flat",
+        "source": "com.beirut.app-main-37:/drawable-mdpi/src_assets_images_searchicon.png"
+    },
+    {
+        "merged": "com.beirut.app-merged_res-35:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.beirut.app-main-37:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    }
+]

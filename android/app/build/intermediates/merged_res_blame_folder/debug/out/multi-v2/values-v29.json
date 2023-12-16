@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.beirut.app-mergeDebugResources-33:/values-v29/values-v29.xml",
+            "map": [
+                {
+                    "source": "/Users/tahazalzaly/.gradle/caches/transforms-3/99caae4832cd6434b56f95e811cef61f/transformed/jetified-core-splashscreen-1.0.0/res/values-v29/values-v29.xml",
+                    "from": {
+                        "startLines": "2,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,374",
+                        "endLines": "6,8",
+                        "endColumns": "12,12",
+                        "endOffsets": "369,464"
+                    }
+                }
+            ]
+        }
+    ]
+}
